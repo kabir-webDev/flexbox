@@ -9,7 +9,7 @@ function Header() {
 
             <div className="header_search">
                 <input type="text" className="header__input"/>
-                <span className="icon">W</span>
+                <span className="search_icon">W</span>
             </div>
         </div>
     )
